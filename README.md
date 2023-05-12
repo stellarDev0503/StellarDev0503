@@ -1,121 +1,131 @@
-<div align="center" style="position: relative;">
-  <img align="center" src="./1.jpg" style = "width: 50%; height: 70%;"/>
-  <h1 style="position: absolute; color: black; bottom: 0px; transform: translate(-50%, 0); left: 50%">Senior Fullstack developer</h1>
+<h1 align="center">Hi 👍💖👋, Welcom to my Github profile</h1>
+
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Colleen%20Hillayrd&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
+<h3>👀 Open to work!</h3>
+<h4 align="left">I am a passionate Front-end and MERN Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
+
+<div align="center" style="margin-bottom: 40px; margin-top: 40px;">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app?username=cchillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
+  <br>
+  <br>
 </div>
 
-<p align="center">
-  <a href="https://github.com/stellarDev0503"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20fullstack%20developer;5+%2B%20years%20of%20hands-on%20experience;7+%2B%20years%20of%20web%20developing%20experience;&center=true&width=800&height=45"></a>
-</p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<h1 align="center"></h1>
-
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-  <div>
-     <div align="left">
-      <code><img alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-programming.png"></code>
-      <code><img  alt="C++" height="50" width="50" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
-      <code><img  alt="C#" height="50" width="50" src="https://img.icons8.com/color/2x/c-sharp-logo.png"></code>
-      <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-      <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
-      <a href="https://www.java.com" target="_blank"> 
-        <code><img  alt="java" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
-      </a> 
-      <a href="https://www.qt.io/" target="_blank">
-        <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
-      </a>
-      <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
-      <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
-      <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
-      <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
-      <code><img alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/2x/mongodb.png"/></code>
-      <code><img alt="Postgreesql" height="50" width="50" src="https://img.icons8.com/color/2x/postgreesql.png"/></code>
-      <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/fluency/2x/maria-db.png"/></code>
-      <code><img alt="MariaDB" height="50" width="50" src="https://img.icons8.com/color/2x/mysql-logo.png"/></code>
-       <a href="https://www.sqlite.org/" target="_blank">
-         <code><img alt="sqlite" width="50" height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" /></code>
-      </a>
-      <code><img  alt="jQuery" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/344/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-tritone-tal-revivo.png" /></code>
-      <code><img alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
-      <a href="https://sass-lang.com" target="_blank"> 
-         <code><img  alt="sass" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/></code>
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank"> 
-        <code><img alt="tailwind" width="50" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/></code>
-      </a>
-      <a href="https://www.gatsbyjs.com/" target="_blank">
-        <code><img alt="gatsby" width="50" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"/></code>
-      </a> 
-      <code><img alt="React" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" /></code>
-      <code><img alt="Vue" height="50" width="50" src="https://img.icons8.com/color/2x/vue-js.png" /></code>
-      <code><img alt="Nuxt" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-color-tal-revivo.png" /></code>
-      <code><img alt="Kadu-Angular" height="50" width="50" src="https://img.icons8.com/color/2x/angularjs.png" /></code>
-      <code><img alt="Kadu-NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-      <code><img alt="Express.js" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" /></code>
-      <code><img alt="Unity icon" height="50" width="50" src="https://img.icons8.com/color/2x/django.png" /></code>
-      <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/fluency/2x/laravel.png" /></code>
-      <code><img alt="Laravel" height="50" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png" /></code>
-      <code><img  alt="Docker" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" /></code>
-      <code><img alt="Git" height="50"  width="50" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" /></code>
-      <code><img alt="GraphQL" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/graphql.png" /></code>
-      <code><img alt="WooCommerce" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" /></code>
-      <code><img alt="WordPress" height="50"  width="50"  src="https://profilinator.rishav.dev/skills-assets/wordpress.png" /></code>
-      <a href="https://redux.js.org" target="_blank">
-        <code><img alt="Redux" height="50" width="50"  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"  /></code>
-      </a>
-      <a href="https://redis.io" target="_blank">
-        <code><img alt="redis" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/></code>
-      </a>
-       <a href="https://firebase.google.com/" target="_blank"> 
-         <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></code>
-      </a>
-      <a href="https://www.chartjs.org" target="_blank"> 
-        <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
-      </a> 
-      <a href="https://www.electronjs.org" target="_blank"> 
-        <code><img alt="electron" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></code>
-      </a>
-    </div>
-  </div>
-<div style="margin: 10px 0px; border-bottom: solid 1px white;">
-  <a href="https://github.com/stellarDev0503"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <a href="https://github.com/stellarDev0503"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
-  <a href="https://github.com/stellarDev0503"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
+<div align="center" style="width:100%"> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=cchillyard&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
+  <!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=cchillyard&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27"> -->
+  <br><br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cchillyard&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
 </div>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
-  <p>
 
- Seasoned, Forward-looking web developer of innovating software solutions with the background of great experience in creating and executing. 
-A creative and hardworking person with the ability to finish my work on time.  Able to effectively self-manage during independent projects, as well as collaborate in a team setting. 
-Love creative and optimized coding.
-</p>
+- 💬 Ask me about **Node.js, Python, JavaScript, TypeScript, Bootstrap and React**
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨 
- 
-### Web & Mobile application using various frameworks
-<br />
+- 📫 How to reach me **upworkpro120@gmail.com**
 
-### AR & VR Web and Mobile application
-<br />
-
-### DApps & Online Betting Website
-<br />
-
-### Crypto Trading Platforms & Bots
-<br />
+- 📄 How to get my career [https://hirosh-96fdc.web.app/](https://hirosh-96fdc.web.app/)
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <div style="display: flex; align-items: center;">
-      <a href="https://t.me/stellarDev0503"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">@stellarDev0503</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="mailto:stellarDev0503@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">stellarDev0503@gmail.com</b>
-    </div>
-    <div style="display: flex; align-items: center;">
-      <a href="/"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Awesome Badge"/></a><b style="margin-left: 15px;">live:.cid.977875490d5f3726</b>
-    </div>
-  </div>
-<div>
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
+</div> 
+
+<div align="center" style="width:100%">
+  <h3 align="center"> :open_book: Front end skills</h3><br/>
+  
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+</div>
+
+<div align="center" style="width:100%"> 
+  <br/>
+  <h3 align="center"> :open_book: Back end skills</h3><br/>
+
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Golang](https://img.shields.io/badge/Golang-%23EF4223.svg?style=for-the-badge&logo=Golang&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+  ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
+  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+</div>
+
+
+<div align="center" style="width:100%"> 
+  <br/>
+  <h3> 👱‍♀️: Communities</h3><br/>
+
+  ![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
+  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
+  ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+  ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
+</div> 
+
+
+<div align="center">
+  <a href="https://www.freecodecamp.org/certification/hillyard/responsive-web-design">
+    <img src="https://hillyard.netlify.app/img/reponsive-web-design.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/hillyard/javascript-algorithms-and-data-structures">
+    <img src="https://hillyard.netlify.app/img/algorithm-data.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/hillyard/front-end-development-libraries">
+    <img src="https://hillyard.netlify.app/img/frontend.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+  <a href="https://www.freecodecamp.org/certification/hillyard/data-visualization">
+    <img src="https://hillyard.netlify.app/img/data-visual.PNG" width="500" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
+</div> 
+
+<div align="center">
+  <a href="https://app.daily.dev/cchillyard">
+    <img src="https://hillyard.netlify.app/img/hillyard-legendary.png" width="400" alt="Colleen Claire Hillyard's Dev Card"/>
+  </a>
+</div>
