@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👍💖👋, Welcom to my Github profile</h1>
 
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Colleen%20Hillayrd&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Hiroshi%20Bannister&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 <h3>👀 Open to work!</h3>
 <h4 align="left">I am a passionate Front-end and MERN Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
