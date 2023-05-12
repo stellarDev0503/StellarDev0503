@@ -123,9 +123,3 @@
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>  
 </div> 
-
-<div align="center">
-  <a href="https://app.daily.dev/cchillyard">
-    <img src="https://hillyard.netlify.app/img/hillyard-legendary.png" width="400" alt="Colleen Claire Hillyard's Dev Card"/>
-  </a>
-</div>
